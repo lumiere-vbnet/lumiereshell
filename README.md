@@ -6,7 +6,7 @@
 
 [![Last Successful Build](https://img.shields.io/badge/Last%20Successful%20Build-No%20Published%20Builds-red)](https://github.com/lumiere-vbnet/lumiereshell/releases)
 
-LumiereShell Is An Open-Source Replacement For Windows GUI.
+LumiereShell Is An Open-Source Project That Aims To Recreate The WinPad Style.
 
 
 
@@ -26,7 +26,7 @@ LumiereShell Is An Open-Source Replacement For Windows GUI.
 ## FAQ
 
 #### What Is LumiereShell?
-LumiereShell Is A Simple Windows GUI Replacement
+LumiereShell Is A Simple WinPad Style GUI For Windows.
 
 #### Can I Use It As A Daily Driver?
 
