@@ -6,31 +6,33 @@
 
 [![Last Successful Build](https://img.shields.io/badge/Last%20Successful%20Build-No%20Published%20Builds-red)](https://github.com/lumiere-vbnet/lumiereshell/releases)
 
-LumiereShell Is An Open-Source Project That Aims To Recreate The WinPad Style.
+LumiereShell is an open sourced project that aims to recreate the WinPad style.
 
 
 
 
 ## Features
 
-- Almost Every Lumiere-VBNet App
-- Exclusive Lumiere Apps Designed For It
-- Acrylic Design Language
+- Every single Lumiere-VB app is included.
+- Exclusively designed applications
+- Acrylic design language
+- Easy to function and use
+
 ## Roadmap
 
-- Make It More Daily Driver Friendly
+- Make it more daily driver friendly
 
-- Extend Acrylic Design In Apps
+- Extend acrylic design in more applications.
 
 
 ## FAQ
 
 #### What Is LumiereShell?
-LumiereShell Is A Simple WinPad Style GUI For Windows.
+LumiereShell is a simple WinPad styled GUI for Windows.
 
 #### Can I Use It As A Daily Driver?
 
-It's Still In Beta And Has No Internet Access But If You Want To Check Out Our Progress / Take Notes, Play Games etc. It's Perfect.
+LumiereShell is still in beta and doesn't have any internet functionality, but if you want to check out our progress, take notes, play games, etc, it's perfect for you.
 ## License
 
 [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.txt)
