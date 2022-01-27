@@ -4,7 +4,7 @@
 
 [![GNU GPL License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue)](https://www.gnu.org/licenses/gpl-3.0.txt)  [![Last Successful Build](https://img.shields.io/badge/Last%20Successful%20Build-No%20Published%20Builds-red)](https://github.com/lumiere-vbnet/lumiereshell/releases)
 
-LumiereShell is an open sourced project that aims to recreate the WinPad style.
+**LumiereShell is an open sourced project that aims to recreate the WinPad style.**
 
 
 
