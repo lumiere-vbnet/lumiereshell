@@ -24,8 +24,9 @@
 
 
 ## Screenshots
+_(these are links)_
 
-![App Screenshot](https://github.com/lumiere-vbnet/lumiereshell/raw/7f9a4db7cbc2b03537cd4d9cf3a56e27d8d8b29d/Screenshots/230122.png)
+[**Home Screen**](https://raw.githubusercontent.com/lumiere-vbnet/lumiereshell/main/Screenshots/230122.png)
 
 ## FAQ
 
