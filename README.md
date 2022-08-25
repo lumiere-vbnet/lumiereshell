@@ -7,6 +7,7 @@
 **LumiereShell is an open sourced project that aims to recreate the WinPad style.**
 
 
+**Development can start again. LumiereShell WinPad is currently an Alpha product based on an older project called LumiereShell. The main project might be published too but it will not be the main project.**
 
 
 ## Features
