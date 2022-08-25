@@ -43,6 +43,6 @@ LumiereShell is still in beta and doesn't have any internet functionality, but i
 
 ## Authors
 
-- .MRC.#2970
+- .cupcakketech#4288
 - The Community's ❤️
 
