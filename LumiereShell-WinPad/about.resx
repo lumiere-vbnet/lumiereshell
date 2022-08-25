@@ -1,0 +1,126 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>Build: 260122
+© Lumiere. All Rights Reserved.
+
+LumiereShell Is An Open-Source Project That Aims To
+Recreate The WinPad Style.
+
+Features:
+ - Almost Every Lumiere-VBNet App
+ - Exclusive Lumiere Apps Designed For It
+ - Acrylic Design Language
+
+Authors:
+ - .MRC.#2970 (Discord)
+ - The Community's ❤️</value>
+  </data>
+</root>

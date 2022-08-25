@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update=".Designer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="activities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lumiere.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="run.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
